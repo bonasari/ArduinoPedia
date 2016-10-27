@@ -26,7 +26,7 @@ h5,
 h6 {
     margin: 0 0 15px;
 }
-body { font-family:Arial, Helvetica, sans-serif; }
+body { font-family: Arial, Helvetica, sans-serif; }
 
 
 
@@ -108,7 +108,7 @@ z-index: 999;}
     font-weight: 700;
 }
 .product-count {
-    background: none repeat scroll 0 0 #5a88ca;
+    background: none repeat scroll 0 0 #00979c;
     border-radius: 50%;
     color: #fff;
     display: inline-block;
@@ -127,7 +127,7 @@ z-index: 999;}
 
 
 .shopping-item:hover {
-    background: none repeat scroll 0 0 #5a88ca;
+    background: none repeat scroll 0 0 #00979c;
     border-color: #00979c;
 }
 .shopping-item:hover a {
@@ -351,7 +351,7 @@ z-index: 999;}
   border-bottom:1px solid #e5e5e5;
   color: #fff;
   padding: 20px 0 20px;
-}
+}*/
 
 .promo-area .zigzag-bottom, .brands-area .zigzag-bottom{background: #f4f4f4}
 .single-promo {
@@ -362,7 +362,7 @@ z-index: 999;}
 }
 .single-promo i {
   font-size: 50px;
-}
+} 
 
 .single-promo:hover {color: #fff;background: #222;}
 .promo1 { background:#5a88ca;}
@@ -376,7 +376,7 @@ z-index: 999;}
   margin-bottom: 50px;
   text-align: center;
 }
-
+*/
 
 .product-f-image {
     position: relative;
@@ -683,7 +683,7 @@ width: 10px;
   margin: 10px 0 0;
 }
 
-.product-big-title-area {background: url(img/crossword.png) repeat scroll 0 0 #5a88ca}
+.product-big-title-area {background: url(img/crossword.png) repeat scroll 0 0 #00979c}
 
 .product-bit-title h2 {
   font-family: raleway;
@@ -717,7 +717,7 @@ input[type="text"], input[type="password"], input[type="email"], textarea {
     padding: 10px;
 }
 input[type="submit"], button[type=submit] {
-    background: none repeat scroll 0 0 #5a88ca;
+    background: none repeat scroll 0 0 #00979c;
     border: medium none;
     color: #fff;
     padding: 11px 20px;
